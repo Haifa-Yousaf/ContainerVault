@@ -229,4 +229,3 @@ Software Engineering Student
 
 ```
 
-This README is concise, professional, and suitable for an academic GitHub repository while showcasing the DevOps and backend skills demonstrated in the project.
