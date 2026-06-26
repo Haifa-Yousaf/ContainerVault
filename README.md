@@ -224,8 +224,6 @@ Each major feature was committed separately for proper version control.
 ## Author
 
 **Haifa Yousaf**
-
 Software Engineering Student
 
-```
 
